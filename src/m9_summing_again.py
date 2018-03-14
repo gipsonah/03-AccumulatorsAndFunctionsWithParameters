@@ -29,7 +29,7 @@ def run_test_sum_powers():
     print('Testing the   sum_powers   function:')
     print('--------------------------------------------------')
 
-    # Test 1 
+    # Test 1
     expected = 55
     answer = sum_powers(5, 2)
     print('Test 1 expected', expected)
